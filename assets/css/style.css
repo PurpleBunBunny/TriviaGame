@@ -1,0 +1,38 @@
+
+
+body {
+    
+    background-image: url("../images/konoha_house_shippuuden_naruto_scenery_home_hd-wallpaper-zURQ.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    height: 100%;
+    font-size: 18px;
+    font-style: bolder;
+    width: 100%;
+
+}
+
+h5 {
+    
+    color: crimson;
+    font-size: 30px;
+    font-style: bold;
+    text-decoration: underline black;
+
+}
+
+#main-card {
+    
+    background-color: transparent;
+    border: 2px solid black;
+    height: 500px;
+
+}
+
+#stop {
+
+    background-color: transparent;
+    
+}
